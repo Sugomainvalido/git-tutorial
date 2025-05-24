@@ -1,1 +1,1 @@
-print('alteração 1')
+print('alteração')
